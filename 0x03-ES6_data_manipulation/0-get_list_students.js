@@ -1,4 +1,4 @@
-fuction getListStudents(){
+export default fuction getListStudents(){
 	return [
 		{
 			id: 1,
